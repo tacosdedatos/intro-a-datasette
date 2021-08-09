@@ -1,0 +1,2 @@
+csvs-to-sqlite==1.2
+datasette==0.58.1
